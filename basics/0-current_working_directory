@@ -1,2 +1,2 @@
 #!/bin/bash
-$ wc -1 (pwd) 0-current_working_directory/basics
+$ echo 'pwd' wc -1 0-current_working_directory/basics
